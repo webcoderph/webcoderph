@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @webcoderph
 - 👀 I’m interested in ruby on rails application and react js application
-- 🌱 I’m currently learning react typescript
-- 💞️ I’m looking to collaborate on any ruby on rails project
+- I'm currently working as as Fullstack Developer in a US Company
+- 🧑🏻‍💻 Looking for a part time job
 - 📫 How to reach me ig: webcoderph twitter: @webcoderph
 
 <!---
