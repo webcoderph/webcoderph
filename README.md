@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @webcoderph
-- 👀 I’m interested in ruby on rails application and react js application
+- 👀 I’m interested in MERN or MEVN stack
 - I'm currently working as as Fullstack Developer in a US Company
 - 🧑🏻‍💻 Looking for a part time job
 - 📫 How to reach me ig: webcoderph twitter: @webcoderph
