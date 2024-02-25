@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webcoderph
+- 👋 Hi, I’m Maynard<@webcoderph>
 - 👀 I’m interested in MERN or MEVN stack
 - I'm currently working as as Fullstack Developer in a US Company
 - 🧑🏻‍💻 Looking for a part time job
